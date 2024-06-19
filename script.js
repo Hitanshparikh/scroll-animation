@@ -348,11 +348,37 @@ function files(index) {
      ./0298.png
      ./0299.png
      ./0300.png
+     ./0301.png
+     ./0302.png
+     ./0303.png
+     ./0304.png
+     ./0305.png
+     ./0306.png
+     ./0307.png
+     ./0308.png 
+     ./0309.png
+     ./0310.png
+     ./0311.png
+     ./0312.png
+     ./0313.png
+     ./0314.png
+     ./0315.png
+     ./0316.png
+     ./0317.png
+     ./0318.png
+     ./0319.png
+     ./0320.png
+     ./0321.png
+     ./0322.png
+     ./0323.png
+     ./0324.png
+     ./0325.png
+     ./0326.png
  `;
   return data.split("\n")[index];
 }
 
-const frameCount = 300;
+const frameCount = 326;
 
 const images = [];
 const imageSeq = {
